@@ -59,18 +59,18 @@ print()
 # EXERCICE 4
 # =====================================
 
-#nbr1 = input("Entrez le premier nombre :")
-#nbr2 = input("Entrez le second nombre :")
+nbr1 = input("Entrez le premier nombre :")
+nbr2 = input("Entrez le second nombre :")
 
-#print(f"le premier nombre : {nbr1} \n le second  nombre{nbr2}")
+print(f"le premier nombre : {nbr1} \n le second  nombre{nbr2}")
 
-#fnbr1 = float(nbr1)
-#fnbr2 = float(nbr2)
+fnbr1 = float(nbr1)
+fnbr2 = float(nbr2)
 
-#print(f"la somme donne {fnbr1 + fnbr2}")
-#print(f"la difference donne {fnbr1 - fnbr2}")
-#print(f"le produit donne {fnbr1 * fnbr2}")
-#print()
+print(f"la somme donne {fnbr1 + fnbr2}")
+print(f"la difference donne {fnbr1 - fnbr2}")
+print(f"le produit donne {fnbr1 * fnbr2}")
+print()
 
 # =====================================
 # EXERCICE 5
